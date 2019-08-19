@@ -12,13 +12,13 @@ $message = "";
 		case "08-19":
 			$message = 'PHP day';
 			break;
-		case "1-1":
+		case "01-01":
 			$message = 'happy new year';
 			break;
-		case "2-14":
+		case "02-14":
 			$message = 'happy valentine\'s day';
 			break;
-		case "7-4":
+		case "07-04":
 			$message = 'fireworks! yay!';
 			break;
 	}
