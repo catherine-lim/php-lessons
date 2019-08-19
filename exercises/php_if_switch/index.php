@@ -22,6 +22,6 @@ $message = "";
 			$message = 'fireworks! yay!';
 			break;
 	}
-	print("\n $message");
+	print nl2br("\n $message");
 
 ?>
