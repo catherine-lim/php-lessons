@@ -27,9 +27,4 @@ foreach($film['cast'] as $key => $keyVal){
 ?>
 <pre> 
     <?= $sentence;?> 
-   <!-- or  '.$sentence.' -->
 </pre>
-<?php
-
-
-?>
